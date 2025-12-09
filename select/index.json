@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Snowman",
+  "base_artist": "Sia",
+  "createdAt": "2025-12-09T14:25:39.044731Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Frosty the Snowman",
+      "artist": "Bladee",
+      "has_synced": true,
+      "path": "select/01_Frosty_the_Snowman_Bladee.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Frosty The Snowman",
+      "artist": "Billy Idol",
+      "has_synced": true,
+      "path": "select/02_Frosty_The_Snowman_Billy_Idol.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Do You Want to Build a Snowman?",
+      "artist": "Kristen Bell feat. Agatha Lee Monn & Katie Lopez",
+      "has_synced": true,
+      "path": "select/03_Do_You_Want_to_Build_a_Snowman_Kristen_Bell_feat._Agatha_Lee_Monn_&_Katie_Lopez.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Do You Want to Build a Snowman？",
+      "artist": "Kristen Bell, Agatha Lee Monn and Katie Lopez",
+      "has_synced": true,
+      "path": "select/04_Do_You_Want_to_Build_a_Snowman_Kristen_Bell,_Agatha_Lee_Monn_and_Katie_Lopez.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Frosty The Snowman",
+      "artist": "The Jackson 5",
+      "has_synced": false,
+      "path": "select/05_Frosty_The_Snowman_The_Jackson_5.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Frosty the Snowman",
+      "artist": "Jackson 5",
+      "has_synced": true,
+      "path": "select/06_Frosty_the_Snowman_Jackson_5.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Snowman",
+      "artist": "XTC",
+      "has_synced": true,
+      "path": "select/07_Snowman_XTC.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Snowman (live)",
+      "artist": "XTC",
+      "has_synced": false,
+      "path": "select/08_Snowman_(live)_XTC.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Snowman",
+      "artist": "Sia",
+      "has_synced": true,
+      "path": "select/09_Snowman_Sia.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "What the Snowman Learned About Love",
+      "artist": "Stars",
+      "has_synced": false,
+      "path": "select/10_What_the_Snowman_Learned_About_Love_Stars.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Dear Prudence / Do You Want to Build a Snowman? (Live)",
+      "artist": "Idina Menzel",
+      "has_synced": true,
+      "path": "select/11_Dear_Prudence___Do_You_Want_to_Build_a_Snowman__(Live)_Idina_Menzel.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Dear Prudence \u0000 Do You Want to Build a Snowman? (Live)",
+      "artist": "Idina Menzel",
+      "has_synced": true,
+      "path": "select/12_Dear_Prudence_\u0000_Do_You_Want_to_Build_a_Snowman__(Live)_Idina_Menzel.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Do You Want to Build a Snowman? (From \"Frozen: The Broadway Musical\")",
+      "artist": "Mattea Conforti feat. Patti Murin & Caissie Levy",
+      "has_synced": true,
+      "path": "select/13_Do_You_Want_to_Build_a_Snowman__(From__Frozen__The_Broadway_Musical_)_Mattea_Conforti_feat._Patti_Murin_&_Caissie_Levy.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Do You Want to Build a Snowman? (From \"Frozen: The Broadway Musical\")",
+      "artist": "Mattea Conforti Ayla Schwartz Patti Murin Caissie Levy",
+      "has_synced": true,
+      "path": "select/14_Do_You_Want_to_Build_a_Snowman__(From__Frozen__The_Broadway_Musical_)_Mattea_Conforti_Ayla_Schwartz_Patti_Murin_Caissie_Levy.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Frosty The Snowman",
+      "artist": "Ella Fitzgerald",
+      "has_synced": true,
+      "path": "select/15_Frosty_The_Snowman_Ella_Fitzgerald.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Snowman",
+      "artist": "Sia",
+      "has_synced": true,
+      "path": "select/16_Snowman_Sia.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Snowman",
+      "artist": "Sia",
+      "has_synced": false,
+      "path": "select/pl_01_Snowman_Sia.txt"
+    }
+  ]
+}
